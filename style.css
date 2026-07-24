@@ -10,7 +10,7 @@
 }
 body{
     color:aliceblue;
-    background-image: url(./img/dep.jpg);
+    background-image: url(../img/dep.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
